@@ -1,0 +1,9 @@
+/* Custom CSS Tambahan (Opsional untuk utilitas kustom) */
+html {
+    scroll-behavior: smooth;
+}
+
+::selection {
+    background-color: rgba(236, 72, 153, 0.2);
+    color: #EC4899;
+}
